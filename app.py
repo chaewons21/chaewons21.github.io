@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
 
-# 전달함수의 분자와 분모 계수
+
 num = [100]
 den = [1, 5, 6]  # (s+2)(s+3) 확장
 
